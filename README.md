@@ -25,7 +25,11 @@ others are release year, imdb_score, tmdb_score. Listed columns are considered f
 
 ## WorkFlow:
 **1. Features Extraction**
+
 **2. Features Matrix Creation**
+
 **3. User Profile Creation**
+
 **4. Cosine Similarity Computation**
+
 **5. Recommendations Generation**
